@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/sarthak/Desktop/immerse/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml",
+            "outputFile": "/home/sarthak/Immerse/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml",
             "map": [
                 {
                     "source": "/home/sarthak/.gradle/caches/transforms-2/files-2.1/82832a2166ca5e7f3a5a53bbd2586638/jetified-play-services-base-16.1.0/res/values-te/values.xml",

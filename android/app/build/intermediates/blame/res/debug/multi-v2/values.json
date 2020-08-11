@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/sarthak/Desktop/immerse/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/sarthak/Immerse/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/sarthak/.gradle/caches/transforms-2/files-2.1/15ca86802ff56671778dba97db2515a2/jetified-react-native-0.63.2/res/values/values.xml",
@@ -40,26 +40,7 @@
                     }
                 },
                 {
-                    "source": "/home/sarthak/Desktop/immerse/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "231"
-                    },
-                    "to": {
-                        "startLines": "840",
-                        "startColumns": "4",
-                        "startOffsets": "62615",
-                        "endLines": "843",
-                        "endColumns": "12",
-                        "endOffsets": "62792"
-                    }
-                },
-                {
-                    "source": "/home/sarthak/Desktop/immerse/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "source": "/home/sarthak/Immerse/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
                     "from": {
                         "startLines": "6,7",
                         "startColumns": "4,4",
@@ -111,6 +92,25 @@
                         "endLines": "3315,3317",
                         "endColumns": "8,8",
                         "endOffsets": "225861,225965"
+                    }
+                },
+                {
+                    "source": "/home/sarthak/Immerse/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "231"
+                    },
+                    "to": {
+                        "startLines": "840",
+                        "startColumns": "4",
+                        "startOffsets": "62615",
+                        "endLines": "843",
+                        "endColumns": "12",
+                        "endOffsets": "62792"
                     }
                 },
                 {
@@ -207,6 +207,23 @@
                     }
                 },
                 {
+                    "source": "/home/sarthak/Immerse/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "44",
+                        "endOffsets": "56"
+                    },
+                    "to": {
+                        "startLines": "684",
+                        "startColumns": "4",
+                        "startOffsets": "43978",
+                        "endColumns": "44",
+                        "endOffsets": "44018"
+                    }
+                },
+                {
                     "source": "/home/sarthak/.gradle/caches/transforms-2/files-2.1/b9082305ce28ba34ad7d7d59e11d698a/coordinatorlayout-1.1.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,6,16",
@@ -281,23 +298,6 @@
                     }
                 },
                 {
-                    "source": "/home/sarthak/Desktop/immerse/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "44",
-                        "endOffsets": "56"
-                    },
-                    "to": {
-                        "startLines": "684",
-                        "startColumns": "4",
-                        "startOffsets": "43978",
-                        "endColumns": "44",
-                        "endOffsets": "44018"
-                    }
-                },
-                {
                     "source": "/home/sarthak/.gradle/caches/transforms-2/files-2.1/d6e1bad9a33beb1833947e9df6ae00da/jetified-viewpager2-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -334,7 +334,7 @@
                     }
                 },
                 {
-                    "source": "/home/sarthak/Desktop/immerse/android/app/build/generated/res/google-services/debug/values/values.xml",
+                    "source": "/home/sarthak/Immerse/android/app/build/generated/res/google-services/debug/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

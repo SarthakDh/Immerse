@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/sarthak/Desktop/immerse/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
+            "outputFile": "/home/sarthak/Immerse/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
             "map": [
                 {
                     "source": "/home/sarthak/.gradle/caches/transforms-2/files-2.1/f598bff21e8af786fee682e3731d29bf/material-1.1.0/res/values-small-v4/values-small-v4.xml",

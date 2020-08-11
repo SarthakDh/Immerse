@@ -9,20 +9,20 @@
 9        android:targetSdkVersion="29" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->/home/sarthak/Desktop/immerse/android/app/src/debug/AndroidManifest.xml:5:5-77
-11-->/home/sarthak/Desktop/immerse/android/app/src/debug/AndroidManifest.xml:5:22-75
+11-->/home/sarthak/Immerse/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/home/sarthak/Immerse/android/app/src/debug/AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:4:5-67
-12-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:4:22-64
+12-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:4:22-64
 13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 13-->[com.facebook.flipper:flipper:0.37.0] /home/sarthak/.gradle/caches/transforms-2/files-2.1/9fd80467112ad8d46623738a88cc056e/jetified-flipper-0.37.0/AndroidManifest.xml:16:5-76
 13-->[com.facebook.flipper:flipper:0.37.0] /home/sarthak/.gradle/caches/transforms-2/files-2.1/9fd80467112ad8d46623738a88cc056e/jetified-flipper-0.37.0/AndroidManifest.xml:16:22-73
 14    <uses-permission android:name="android.permission.WAKE_LOCK" />
-14-->[:react-native-firebase] /home/sarthak/Desktop/immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
-14-->[:react-native-firebase] /home/sarthak/Desktop/immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+14-->[:react-native-firebase] /home/sarthak/Immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+14-->[:react-native-firebase] /home/sarthak/Immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-15-->[:react-native-firebase] /home/sarthak/Desktop/immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
-15-->[:react-native-firebase] /home/sarthak/Desktop/immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+15-->[:react-native-firebase] /home/sarthak/Immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+15-->[:react-native-firebase] /home/sarthak/Immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
 16    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" /> <!-- for android -->
 16-->[com.google.firebase:firebase-iid:18.0.0] /home/sarthak/.gradle/caches/transforms-2/files-2.1/cf3c493458d4d9bf83f90d4ffbc87ae4/jetified-firebase-iid-18.0.0/AndroidManifest.xml:26:5-82
 16-->[com.google.firebase:firebase-iid:18.0.0] /home/sarthak/.gradle/caches/transforms-2/files-2.1/cf3c493458d4d9bf83f90d4ffbc87ae4/jetified-firebase-iid-18.0.0/AndroidManifest.xml:26:22-79
@@ -84,50 +84,50 @@
 38-->[com.google.android.gms:play-services-measurement:16.5.0] /home/sarthak/.gradle/caches/transforms-2/files-2.1/864f949fdc51cba3ad2ed78e320161df/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:26:22-107
 39
 40    <application
-40-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:6:5-25:19
+40-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:6:5-25:19
 41        android:name="com.navigate.MainApplication"
-41-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:7:7-38
+41-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:7:7-38
 42        android:allowBackup="false"
-42-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:11:7-34
+42-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:11:7-34
 43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 43-->[androidx.core:core:1.1.0] /home/sarthak/.gradle/caches/transforms-2/files-2.1/0f512e181ca87b528277c07a0d4a1870/core-1.1.0/AndroidManifest.xml:24:18-86
 44        android:debuggable="true"
 45        android:icon="@mipmap/ic_launcher"
-45-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:9:7-41
+45-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:9:7-41
 46        android:label="@string/app_name"
-46-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:8:7-39
+46-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:8:7-39
 47        android:roundIcon="@mipmap/ic_launcher_round"
-47-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:10:7-52
+47-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:10:7-52
 48        android:theme="@style/AppTheme"
-48-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:12:7-38
+48-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:12:7-38
 49        android:usesCleartextTraffic="true" >
-49-->/home/sarthak/Desktop/immerse/android/app/src/debug/AndroidManifest.xml:7:18-53
+49-->/home/sarthak/Immerse/android/app/src/debug/AndroidManifest.xml:7:18-53
 50        <activity
-50-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:13:7-23:18
+50-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:13:7-23:18
 51            android:name="com.navigate.MainActivity"
-51-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:14:9-37
+51-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:14:9-37
 52            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-52-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:16:9-86
+52-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:16:9-86
 53            android:label="@string/app_name"
-53-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:15:9-41
+53-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:15:9-41
 54            android:launchMode="singleTask"
-54-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:17:9-40
+54-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:17:9-40
 55            android:windowSoftInputMode="adjustResize" >
-55-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:18:9-51
+55-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:18:9-51
 56            <intent-filter>
-56-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:19:9-22:25
+56-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:19:9-22:25
 57                <action android:name="android.intent.action.MAIN" />
-57-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:20:13-65
-57-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:20:21-62
+57-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:20:13-65
+57-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:20:21-62
 58
 59                <category android:name="android.intent.category.LAUNCHER" />
-59-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:21:13-73
-59-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:21:23-70
+59-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:21:13-73
+59-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:21:23-70
 60            </intent-filter>
 61        </activity>
 62        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-62-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:24:7-84
-62-->/home/sarthak/Desktop/immerse/android/app/src/main/AndroidManifest.xml:24:17-81
+62-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:24:7-84
+62-->/home/sarthak/Immerse/android/app/src/main/AndroidManifest.xml:24:17-81
 63        <activity
 63-->[com.google.android.gms:play-services-appinvite:17.0.0] /home/sarthak/.gradle/caches/transforms-2/files-2.1/6033675ef05613f287b72fc0e3097a83/jetified-play-services-appinvite-17.0.0/AndroidManifest.xml:25:9-34:20
 64            android:name="com.google.android.gms.appinvite.PreviewActivity"
@@ -149,17 +149,17 @@
 72        </activity>
 73
 74        <service
-74-->[:react-native-firebase] /home/sarthak/Desktop/immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+74-->[:react-native-firebase] /home/sarthak/Immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
 75            android:name="com.google.firebase.components.ComponentDiscoveryService"
-75-->[:react-native-firebase] /home/sarthak/Desktop/immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+75-->[:react-native-firebase] /home/sarthak/Immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
 76            android:exported="false" >
 76-->[com.google.android.gms:play-services-measurement-api:16.5.0] /home/sarthak/.gradle/caches/transforms-2/files-2.1/228baa2f91c5ea5bdca4b28f55837623/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:29:13-37
 77            <meta-data
-77-->[:react-native-firebase] /home/sarthak/Desktop/immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+77-->[:react-native-firebase] /home/sarthak/Immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
 78                android:name="com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar"
-78-->[:react-native-firebase] /home/sarthak/Desktop/immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+78-->[:react-native-firebase] /home/sarthak/Immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
 79                android:value="com.google.firebase.components.ComponentRegistrar" />
-79-->[:react-native-firebase] /home/sarthak/Desktop/immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+79-->[:react-native-firebase] /home/sarthak/Immerse/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
 80            <meta-data
 80-->[com.google.firebase:firebase-config:17.0.0] /home/sarthak/.gradle/caches/transforms-2/files-2.1/93ae10899092ff6a81f98015c48189eb/jetified-firebase-config-17.0.0/AndroidManifest.xml:9:13-11:85
 81                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
