@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1024901436931-imt17e82dubfhdpqu4tq9d1lkt8ei10l.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://immerse-6b5d0.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1024901436931</string>
+    <string name="google_api_key" translatable="false">AIzaSyCHTtNILTpnly9O3eXIgt1Z9Un79JFYcRs</string>
+    <string name="google_app_id" translatable="false">1:1024901436931:android:c027fa66b2499807bfe036</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCHTtNILTpnly9O3eXIgt1Z9Un79JFYcRs</string>
+    <string name="google_storage_bucket" translatable="false">immerse-6b5d0.appspot.com</string>
+    <string name="project_id" translatable="false">immerse-6b5d0</string>
+</resources>

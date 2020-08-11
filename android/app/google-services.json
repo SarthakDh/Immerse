@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1024901436931",
+    "firebase_url": "https://immerse-6b5d0.firebaseio.com",
+    "project_id": "immerse-6b5d0",
+    "storage_bucket": "immerse-6b5d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024901436931:android:c027fa66b2499807bfe036",
+        "android_client_info": {
+          "package_name": "com.navigate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024901436931-imt17e82dubfhdpqu4tq9d1lkt8ei10l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHTtNILTpnly9O3eXIgt1Z9Un79JFYcRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024901436931-imt17e82dubfhdpqu4tq9d1lkt8ei10l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
